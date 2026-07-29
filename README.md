@@ -36,9 +36,7 @@ Right now I'm deep in competitive exam prep (SBI PO, SSC CGL, IBPS SO/PO, KEA La
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAGAR-ELEVEN&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
 </p>
 
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=SAGAR-ELEVEN&theme=tokyonight&no-frame=true&column=4&margin-w=8" width="80%" alt="Trophies" />
-</p>
+
 
 ---
 
