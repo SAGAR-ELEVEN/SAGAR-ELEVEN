@@ -1,54 +1,12 @@
-# Hi there, I'm Sagar 👋
+## Hi there 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=SAGAR-ELEVEN&color=blue&style=flat-square)
-
-
-Developer at **Bharat Electronics Limited (BEL)**, Bengaluru 🇮🇳 [1+ year exp] (2025-2026) <br>
-Intern at **Central Manufacturing Technology Institute – Govt. of India**, Bengaluru 🇮🇳 [5 months exp] (2025).
-
-- 🎓 B.E. Computer Science & Engineering, VTU
-- 🐍 Working with Python, SQL, and enterprise tooling at BEL
-- 📈 Tracking my own progress via repos below (LeetCode, aptitude, tech skills)
-
----
-
-### 🔧 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![ABAP](https://img.shields.io/badge/-ABAP-427EC1?style=flat-square)
-
----
-
-### 📊 GitHub Stats
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=agoodkind)
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SAGAR-ELEVEN&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agoodkind/stats/master/generated/overview.svg?cache=ce9b3c21e861#gh-dark-mode-only" /><img align="top" width="360" alt="GitHub overview" src="https://raw.githubusercontent.com/agoodkind/stats/master/generated/overview.svg?cache=ce9b3c21e861" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agoodkind/stats/master/generated/languages.svg?cache=ce9b3c21e861#gh-dark-mode-only" /><img align="top" width="360" alt="GitHub languages" src="https://raw.githubusercontent.com/agoodkind/stats/master/generated/languages.svg?cache=ce9b3c21e861" /></picture>
 </p>
 
-
-
----
-
-### 📌 My Tracker Repos
-
-| Repo | Purpose |
-|---|---|
-| [`LeetHub`](https://github.com/SAGAR-ELEVEN/LeetHub) | LeetCode problem-solving tracker |
-| [`A-G-LR`](https://github.com/SAGAR-ELEVEN/A-G-LR) | Aptitude (exam prep) tracker |
-| [`Programming-Lang.`](https://github.com/SAGAR-ELEVEN/Programming-Lang.) | Code/language skill tracker |
-| [`Github-Shortcuts`](https://github.com/SAGAR-ELEVEN/Github-Shortcuts) | GitHub shortcuts reference |
-| [`c-lab`](https://github.com/SAGAR-ELEVEN/c-lab) | C programming lab work |
-
----
-
-### 📫 Connect
-
-<!-- Add your real links below and delete this comment -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagarsrinivasachary/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dr.sagars11@gmail.com)
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agoodkind/stats/master/generated/top_repos.svg?cache=ce9b3c21e861#gh-dark-mode-only" /><img align="top" width="360" alt="GitHub top repos" src="https://raw.githubusercontent.com/agoodkind/stats/master/generated/top_repos.svg?cache=ce9b3c21e861" /></picture>
+</p>
