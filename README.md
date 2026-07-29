@@ -1,7 +1,7 @@
 # Hi there, I'm Sagar 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SAGAR-ELEVEN&color=blue&style=flat-square)
-[![Followers](https://img.shields.io/github/followers/SAGAR-ELEVEN?label=Followers&style=flat-square)](https://github.com/SAGAR-ELEVEN?tab=followers)
+
 
 Python Developer at **Bharat Electronics Limited (BEL)**, Bengaluru 🇮🇳 — currently building tools like a Rule-based SAP-GPT app and ABAP programs.
 Right now I'm deep in competitive exam prep (SBI PO, SSC CGL, IBPS SO/PO, KEA Land Surveyor) while also grinding LeetCode and improving at chess ♟️.
