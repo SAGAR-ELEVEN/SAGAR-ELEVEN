@@ -27,10 +27,7 @@ Right now I'm deep in competitive exam prep (SBI PO, SSC CGL, IBPS SO/PO, KEA La
 
 ### 📊 GitHub Stats
 
-<p>
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=SAGAR-ELEVEN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAGAR-ELEVEN&layout=compact&theme=tokyonight&hide_border=true" width="30%" alt="Top Languages" />
-</p>
+
 
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAGAR-ELEVEN&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
