@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SAGAR-ELEVEN&color=blue&style=flat-square)
 
 
-Developer at **Bharat Electronics Limited (BEL)**, Bengaluru 🇮🇳 [1+ year exp] (2025-2026)
+Developer at **Bharat Electronics Limited (BEL)**, Bengaluru 🇮🇳 [1+ year exp] (2025-2026) <br>
 Intern at **Central Manufacturing Technology Institute – Govt. of India**, Bengaluru 🇮🇳 [5 months exp] (2025)
 
 - 🎓 B.E. Computer Science & Engineering, VTU
