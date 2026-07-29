@@ -3,14 +3,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SAGAR-ELEVEN&color=blue&style=flat-square)
 
 
-Python Developer at **Bharat Electronics Limited (BEL)**, Bengaluru 🇮🇳 — currently building tools like a Rule-based SAP-GPT app and ABAP programs.
-Right now I'm deep in competitive exam prep (SBI PO, SSC CGL, IBPS SO/PO, KEA Land Surveyor) while also grinding LeetCode and improving at chess ♟️.
+Developer at **Bharat Electronics Limited (BEL)**, Bengaluru 🇮🇳 [1+ year exp] (2025-2026)
+Intern at **Central Manufacturing Technology Institute – Govt. of India**, Bengaluru 🇮🇳 [5 months exp] (2025)
 
 - 🎓 B.E. Computer Science & Engineering, VTU
 - 🐍 Working with Python, SQL, and enterprise tooling at BEL
 - 📈 Tracking my own progress via repos below (LeetCode, aptitude, tech skills)
-- ♟️ Studying chess seriously — targeting a big rating jump
-- 🎯 Currently prepping for SBI PO / SSC CGL / IBPS SO / IBPS PO / KEA Land Surveyor (Aug–Nov 2026)
 
 ---
 
