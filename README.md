@@ -4,7 +4,7 @@
 
 
 Developer at **Bharat Electronics Limited (BEL)**, Bengaluru 🇮🇳 [1+ year exp] (2025-2026) <br>
-Intern at **Central Manufacturing Technology Institute – Govt. of India**, Bengaluru 🇮🇳 [5 months exp] (2025)
+Intern at **Central Manufacturing Technology Institute – Govt. of India**, Bengaluru 🇮🇳 [5 months exp] (2025).
 
 - 🎓 B.E. Computer Science & Engineering, VTU
 - 🐍 Working with Python, SQL, and enterprise tooling at BEL
