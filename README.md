@@ -51,7 +51,7 @@ Intern at **Central Manufacturing Technology Institute – Govt. of India**, Ben
 # PART 1 <br>
 1-leetcode-public. <br>
 3-Programming-Lang-and-skills-public. <br>
-4-A-G-LR. <br>
+4-A-G-LR-public <br>
 
 # PART 2 <br>
 A--c-lab. <br>
