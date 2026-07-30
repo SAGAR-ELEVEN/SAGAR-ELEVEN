@@ -45,6 +45,19 @@ Intern at **Central Manufacturing Technology Institute – Govt. of India**, Ben
 | [`Github-Shortcuts`](https://github.com/SAGAR-ELEVEN/Github-Shortcuts) | GitHub shortcuts reference |
 | [`c-lab`](https://github.com/SAGAR-ELEVEN/c-lab) | C programming lab work |
 
+<hr>
+# Overview <br>
+
+# PART 1 <br>
+1-leetcode-public. <br>
+3-Programming-Lang-and-skills-public. <br>
+4-A-G-LR. <br>
+
+# PART 2 <br>
+A--c-lab. <br>
+B--python-lab. <br>
+
+<hr>
 ---
 
 ### 📫 Connect
