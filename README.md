@@ -19,7 +19,7 @@ Interned at **Central Manufacturing Technology Institute – Govt. of India**, B
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![ABAP](https://img.shields.io/badge/-ABAP-427EC1?style=flat-square)
+![SAP ABAP](https://img.shields.io/badge/-ABAP-427EC1?style=flat-square)
 
 ---
 
