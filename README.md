@@ -7,7 +7,7 @@ Graduate Engineering Trainee at **Bharat Electronics Limited (BEL)**, Bengaluru 
 Interned at **Central Manufacturing Technology Institute – Govt. of India**, Bengaluru 🇮🇳 [5 months exp] (2025).
 
 - 🎓 B.E. Computer Science & Engineering, VTU
-- 🐍 Working with Python, SQL, and enterprise software at BEL
+- 🐍 Working with Python and enterprise software at BEL
 - 📈 Tracking my own progress via repos below (LeetCode, aptitude, tech skills)
 
 ---
