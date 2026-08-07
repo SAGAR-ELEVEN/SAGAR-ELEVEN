@@ -38,6 +38,9 @@ Interned at **Central Manufacturing Technology Institute – Govt. of India**, B
 ![Word](https://img.shields.io/badge/-Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![OneNote](https://img.shields.io/badge/-OneNote-7719AA?style=flat-square&logo=microsoftonenote&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
 
 ---
 ### 📊 GitHub Stats
