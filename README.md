@@ -40,11 +40,9 @@ Interned at **Central Manufacturing Technology Institute – Govt. of India**, B
 
 | Repo | Purpose |
 |---|---|
-| [`LeetHub`](https://github.com/SAGAR-ELEVEN/LeetHub) | LeetCode problem-solving tracker |
-| [`A-G-LR`](https://github.com/SAGAR-ELEVEN/A-G-LR) | Aptitude (exam prep) tracker |
-| [`Programming-Lang.`](https://github.com/SAGAR-ELEVEN/Programming-Lang.) | Code/language skill tracker |
-| [`Github-Shortcuts`](https://github.com/SAGAR-ELEVEN/Github-Shortcuts) | GitHub shortcuts reference |
-| [`c-lab`](https://github.com/SAGAR-ELEVEN/c-lab) | C programming lab work |
+| [`PROJECTS`](https://github.com/SAGAR-ELEVEN/PROJECTS) | Personal project collection |
+| [`Programming-Lang.`](https://github.com/SAGAR-ELEVEN/3-Programming-Lang-and-skills-public.) | Code/language skill tracker |
+| [`A-G-LR`](https://github.com/SAGAR-ELEVEN/A-G-LR) | Aptitude + Grammar + Logical and Reasoning |
 
 <hr>
 # Overview <br>
