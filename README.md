@@ -41,6 +41,8 @@ Interned at **Central Manufacturing Technology Institute – Govt. of India**, B
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![OneNote](https://img.shields.io/badge/-OneNote-7719AA?style=flat-square&logo=microsoftonenote&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
+![SAP S/4HANA](https://img.shields.io/badge/-SAP%20S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAP Logon](https://img.shields.io/badge/-SAP%20Logon-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 
 ---
 ### 📊 GitHub Stats
