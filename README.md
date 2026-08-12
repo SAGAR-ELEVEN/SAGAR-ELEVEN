@@ -45,6 +45,12 @@ Interned at **Central Manufacturing Technology Institute – Govt. of India**, B
 ![SAP Logon](https://img.shields.io/badge/-SAP%20Logon-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 
 ---
+### 🔗 Useful Links
+[![VisuAlgo](https://img.shields.io/badge/-VisuAlgo-3E4C59?style=flat-square&logo=leetcode&logoColor=white)](https://visualgo.net/en)
+[![Python Tutor](https://img.shields.io/badge/-Python%20Tutor-3776AB?style=flat-square&logo=python&logoColor=white)](https://pythontutor.com/)
+[![Algorithm Visualizer](https://img.shields.io/badge/-Algorithm%20Visualizer-FF6F00?style=flat-square&logo=graphql&logoColor=white)](https://algorithm-visualizer.org/)
+
+---
 ### 📊 GitHub Stats
 
 
