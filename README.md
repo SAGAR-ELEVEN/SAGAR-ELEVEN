@@ -67,20 +67,23 @@ Interned at **Central Manufacturing Technology Institute – Govt. of India**, B
 
 | Repo | Purpose |
 |---|---|
-| [`PROJECTS`](https://github.com/SAGAR-ELEVEN/PROJECTS) | Personal project collection |
-| [`Programming-Lang.`](https://github.com/SAGAR-ELEVEN/3-Programming-Lang-and-skills-public.) | Code/language skill tracker |
-| [`A-G-LR`](https://github.com/SAGAR-ELEVEN/A-G-LR) | Aptitude + Grammar + Logical and Reasoning |
+| [`projects`](https://github.com/SAGAR-ELEVEN/projects) | This is my projects repository. |
+| [`skills`](https://github.com/SAGAR-ELEVEN/skills) | My skills tracker. |
+| [`aptitude`](https://github.com/SAGAR-ELEVEN/aptitude) | Aptitude, grammar, logical reasoning & technical. |
+| [`cp`](https://github.com/SAGAR-ELEVEN/cp) | Competitive Programming. |
 
 <hr>
 
 ### 👁️ Overview
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SAGAR-ELEVEN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAGAR-ELEVEN&layout=compact&theme=tokyonight&hide_border=true" width="35%" alt="Top Languages" />
+</p>
 
-# PART 1 <br>
-PROJECTS <br>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAGAR-ELEVEN&theme=tokyo-night&hide_border=true" width="90%" alt="Activity Graph" />
+</p>
 
-# PART 2 <br>
-3-Programming-Lang-and-skills-public. <br>
-4-A-G-LR-public <br>
 
 
 <hr>
