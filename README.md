@@ -54,12 +54,13 @@ Interned at **Central Manufacturing Technology Institute – Govt. of India**, B
 ---
 ### 📊 GitHub Stats
 
-
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAGAR-ELEVEN&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
 </p>
 
-
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAGAR-ELEVEN&theme=tokyo-night&hide_border=true" width="90%" alt="Activity Graph" />
+</p>
 
 ---
 
@@ -75,15 +76,10 @@ Interned at **Central Manufacturing Technology Institute – Govt. of India**, B
 <hr>
 
 ### 👁️ Overview
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SAGAR-ELEVEN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAGAR-ELEVEN&layout=compact&theme=tokyonight&hide_border=true" width="35%" alt="Top Languages" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAGAR-ELEVEN&theme=tokyo-night&hide_border=true" width="90%" alt="Activity Graph" />
-</p>
-
+projects 
+skills
+aptitude
+cp
 
 
 <hr>
