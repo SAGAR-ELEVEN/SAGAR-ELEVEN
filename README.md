@@ -54,7 +54,7 @@ Interned at **Central Manufacturing Technology Institute – Govt. of India**, B
 ---
 ### 📊 GitHub Stats
 
-<p>
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAGAR-ELEVEN&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
 </p>
 
@@ -76,10 +76,10 @@ Interned at **Central Manufacturing Technology Institute – Govt. of India**, B
 <hr>
 
 ### 👁️ Overview
-projects 
-skills
-aptitude
-cp
+projects <br>
+skills <br>
+aptitude <br>
+cp <br>
 
 
 <hr>
