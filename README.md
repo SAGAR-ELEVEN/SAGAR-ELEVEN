@@ -72,7 +72,7 @@ Interned at **Central Manufacturing Technology Institute – Govt. of India**, B
 | [`skills`](https://github.com/SAGAR-ELEVEN/skills) | My skills tracker. |
 | [`aptitude`](https://github.com/SAGAR-ELEVEN/aptitude) | Aptitude, grammar, logical reasoning & technical. |
 | [`cp`](https://github.com/SAGAR-ELEVEN/cp) | Competitive Programming. |
-| [`cp`](https://github.com/SAGAR-ELEVEN/pvt) | pvt |
+| [`pvt`](https://github.com/SAGAR-ELEVEN/pvt) | pvt |
 
 <hr>
 
