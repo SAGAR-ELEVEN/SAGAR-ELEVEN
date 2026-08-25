@@ -11,7 +11,7 @@
 
 ### 1. Programming & Backend Development
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat-square&logo=swagger&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django%20%2F%20DRF%20(In%20Progress)-092E20?style=flat-square&logo=django&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
