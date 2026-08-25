@@ -1,6 +1,9 @@
-# Hi there, I'm Sagar 👋
+<h1 align="center">Hi 👋, I'm Sagar S</h1>
+<h3 align="center">A passionate developer from India 🇮🇳 </h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SAGAR-ELEVEN&color=blue&style=flat-square)
+
+- 🌱 I’m currently learning **Python Backend Development and solving leetcode**
 
 
 Graduate Engineering Trainee at **Bharat Electronics Limited (BEL)**, Bengaluru 🇮🇳 [1+ year exp] (2025-2026). <br>
