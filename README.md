@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SAGAR-ELEVEN&color=blue&style=flat-square)
 
-- 🌱 I’m currently learning **Python Backend Development and solving leetcode**
+- 🌱 I’m currently learning **Python Backend Development and solving Neetcode**
 
 ---
 
