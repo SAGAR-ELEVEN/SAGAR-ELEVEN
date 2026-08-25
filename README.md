@@ -5,14 +5,6 @@
 
 - 🌱 I’m currently learning **Python Backend Development and solving leetcode**
 
-
-Graduate Engineering Trainee at **Bharat Electronics Limited (BEL)**, Bengaluru 🇮🇳 [1+ year exp] (2025-2026). <br>
-Interned at **Central Manufacturing Technology Institute – Govt. of India**, Bengaluru 🇮🇳 [5 months exp] (2025). <br>
-
-- 🎓 B.E. Computer Science & Engineering, VTU ( CGPA: 8.09 / 10.00 )
-- 🐍 Working with Python and enterprise software at BEL
-- 📈 Tracking my own progress via repos below (LeetCode, aptitude, tech skills)
-
 ---
 
 ### 🔧 Tech Stack
