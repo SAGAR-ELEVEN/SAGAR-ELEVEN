@@ -14,25 +14,44 @@
 
 ### 🔧 Tech Stack
 
-### 1. Programming & Backend Development
+### 🔧 Tech Stack
+
+### 1. Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat-square&logo=swagger&logoColor=white)
-![Django](https://img.shields.io/badge/-Django%20%2F%20DRF%20(In%20Progress)-092E20?style=flat-square&logo=django&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 2. Database & Data Engineering
+**Currently specialising:** Python
+
+### 2. Database
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Data Pipelines](https://img.shields.io/badge/-Data%20Processing%20Pipelines-336791?style=flat-square)
-![Multi-Modal Data](https://img.shields.io/badge/-Multi--Modal%20Data%20Processing-336791?style=flat-square)
-![3D Point Cloud](https://img.shields.io/badge/-Spatial%20Data%20%2F%203D%20Point%20Cloud%20Mapping-336791?style=flat-square)
 
-### 3. Enterprise Systems & SAP (BEL Experience)
+**Currently specialising:** PostgreSQL
+
+### 3. Backend Framework
+![Django](https://img.shields.io/badge/-Django%20%2F%20DRF%20(In%20Progress)-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Currently specialising:** Django
+
+### 4. API
+![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat-square&logo=swagger&logoColor=white)
+
+**Currently specialising:** REST API
+
+### 5. Version Control
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Currently specialising:** Git & GitHub
+
+### 6. Others
+
+**Enterprise Systems & SAP (BEL Experience)**
 ![SAP ABAP](https://img.shields.io/badge/-SAP%20ABAP%20(Custom%20Z--Transactions)-427EC1?style=flat-square&logo=sap&logoColor=white)
 ![SAP ECC 6.0](https://img.shields.io/badge/-SAP%20ECC%206.0%20(PS%2C%20MM%2C%20PLM)-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![SAP Logon](https://img.shields.io/badge/-SAP%20Logon-003D6B?style=flat-square&logo=sap&logoColor=white)
@@ -40,23 +59,25 @@
 ![Enterprise Portals](https://img.shields.io/badge/-Enterprise%20Web%20Portals-005387?style=flat-square)
 ![Ticket & Asset Mgmt](https://img.shields.io/badge/-Ticket%20%26%20Asset%20Management%20Systems-005387?style=flat-square)
 
-### 4. Tools, Frameworks & Development Workflow
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+**Data Engineering**
+![Data Pipelines](https://img.shields.io/badge/-Data%20Processing%20Pipelines-336791?style=flat-square)
+![Multi-Modal Data](https://img.shields.io/badge/-Multi--Modal%20Data%20Processing-336791?style=flat-square)
+![3D Point Cloud](https://img.shields.io/badge/-Spatial%20Data%20%2F%203D%20Point%20Cloud%20Mapping-336791?style=flat-square)
+
+**Tools & Dev Workflow**
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![CloudCompare](https://img.shields.io/badge/-CloudCompare-6A5ACD?style=flat-square)
 ![venv](https://img.shields.io/badge/-Virtual%20Environments%20(venv)-6A5ACD?style=flat-square&logo=python&logoColor=white)
 
-### 5. Computer Science Core Concepts
+**Computer Science Core Concepts**
 ![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-4B5563?style=flat-square)
 ![OS Fundamentals](https://img.shields.io/badge/-Operating%20Systems%20Fundamentals-4B5563?style=flat-square)
 ![Network Protocols](https://img.shields.io/badge/-Network%20Protocols%20(TCP%2FUDP%2FIP)-4B5563?style=flat-square)
 ![Low-Level Data](https://img.shields.io/badge/-Low--Level%20Data%20Manipulation-4B5563?style=flat-square)
 ![System Design](https://img.shields.io/badge/-System%20Design%20%26%20Process%20Optimization-4B5563?style=flat-square)
 ![Testing & Debugging](https://img.shields.io/badge/-Software%20Testing%20%26%20Debugging%20(UAT)-4B5563?style=flat-square)
-
 ---
 ### 🛠️ Tools
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
