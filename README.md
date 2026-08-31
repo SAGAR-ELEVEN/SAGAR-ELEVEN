@@ -109,10 +109,16 @@
 <hr>
 
 ### 👁️ Overview
-projects <br>
-skills <br>
-aptitude <br>
-cp <br>
+### 📂 Repositories
+
+- **[neetcode-submissions](https://github.com/SAGAR-ELEVEN/neetcode-submissions)** — My NeetCode.io problem submissions
+- **[Leetcode](https://github.com/SAGAR-ELEVEN/Leetcode)** — Leetcode `Python`
+- **[cp](https://github.com/SAGAR-ELEVEN/cp)** ⭐ 2 — Competitive Programming `Python`
+- **[Public_Projects](https://github.com/SAGAR-ELEVEN/Public_Projects)** — Public project repository `Jupyter Notebook`
+- **[SAGAR-ELEVEN](https://github.com/SAGAR-ELEVEN/SAGAR-ELEVEN)** — Profile README repository
+- **[projects](https://github.com/SAGAR-ELEVEN/projects)** 🔒 ⭐ 1 — Personal projects repository `C`
+- **[skills](https://github.com/SAGAR-ELEVEN/skills)** 🔒 ⭐ 1 — Skills tracker
+- **[aptitude](https://github.com/SAGAR-ELEVEN/aptitude)** 🔒 ⭐ 1 — Aptitude, grammar, logical reasoning & technical prep
 
 
 <hr>
