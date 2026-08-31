@@ -3,12 +3,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SAGAR-ELEVEN&color=blue&style=flat-square)
 
+CARRIER AIM : To experience a challenging career growth in the field of Information Technology with a company that encourages creativity, quality of service and opportunities for career and professional advancement balancing my personal life. <br>
+
 - 🌱 I’m currently learning **DSA using Python and solving Neetcode, Leetocode Questions** <br>
       Topics of cp-L1 **Greedy, Two pointers(Converging, Sliding window, trigger based), HashMap/ Prefix, Bit Manipulation, Arrays/ Strings** <br>
       Topics of cp-L2 **DP-Kanpsack/ Partition/ Subset, Graph, Tree, Binary Search, Intervals** <br>
       Topics of cp-L3 **Combinations(DP+ Bit-Manipulation, and other combinations** <br>
 
-- 🌱 
+- 🌱 I have ML, SAP, Python experience.
   
 ---
 ### 1. Programming & Backend Development
