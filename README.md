@@ -3,10 +3,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SAGAR-ELEVEN&color=blue&style=flat-square)
 
-- 🌱 I’m currently learning **DSA using Python and solving Neetcode, Leetocode Questions**
-      Topics of cp-L1 **Greedy, Two pointers(Converging, Sliding window, trigger based), HashMap/ Prefix, Bit Manipulation, Arrays/ Strings**
-      Topics of cp-L2 **DP-Kanpsack/ Partition/ Subset, Graph, Tree, Binary Search, Intervals**
-      Topics of cp-L2 **Combinations(DP+ Bit-Manipulation, and other combinations**
+- 🌱 I’m currently learning **DSA using Python and solving Neetcode, Leetocode Questions** <br>
+      Topics of cp-L1 **Greedy, Two pointers(Converging, Sliding window, trigger based), HashMap/ Prefix, Bit Manipulation, Arrays/ Strings** <br>
+      Topics of cp-L2 **DP-Kanpsack/ Partition/ Subset, Graph, Tree, Binary Search, Intervals** <br>
+      Topics of cp-L2 **Combinations(DP+ Bit-Manipulation, and other combinations** <br>
 
 - 🌱 
   
