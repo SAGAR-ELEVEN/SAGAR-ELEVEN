@@ -98,20 +98,6 @@
 </p>
 
 ---
-
-### 📌 My Tracker Repos
-
-| Repo | Purpose |
-|---|---|
-| [`Projects`](https://github.com/SAGAR-ELEVEN/projects) | This is my projects repository. |
-| [`pvt_projects`](https://github.com/SAGAR-ELEVEN/projects) | This is my projects repository. |
-| [`skills`](https://github.com/SAGAR-ELEVEN/skills) | My skills tracker. |
-| [`aptitude`](https://github.com/SAGAR-ELEVEN/aptitude) | Aptitude, grammar, logical reasoning & technical. |
-| [`cp`](https://github.com/SAGAR-ELEVEN/cp) | Competitive Programming. |
-| [`pvt`](https://github.com/SAGAR-ELEVEN/pvt) | pvt |
-
-<hr>
-
 ### 👁️ Overview
 ### 📂 Repositories
 
