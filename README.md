@@ -10,7 +10,7 @@ CARRIER AIM : To experience a challenging career growth in the field of Informat
       Topics of cp-L2 **DP-Kanpsack/ Partition/ Subset, Graph, Tree, Binary Search, Intervals** <br>
       Topics of cp-L3 **Combinations(DP+ Bit-Manipulation, and other combinations** <br>
 
-- 🌱 I have ML, SAP, Python experience.
+- 🌱 You can ask me on ML, SAP, Python.
   
 ---
 ### 1. Programming & Backend Development
